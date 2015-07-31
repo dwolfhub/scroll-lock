@@ -1,0 +1,27 @@
+{
+  "name": "scroll-lock",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dwolfhub/scroll-lock",
+  "authors": [
+    "Daniel Wolf <danielrwolf5@gmail.com>"
+  ],
+  "description": "Lock the scroll position of the page",
+  "main": "dist/scroll-lock.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "scroll",
+    "lock",
+    "disable",
+    "scrolling"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
