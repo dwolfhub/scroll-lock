@@ -1,5 +1,5 @@
 # scroll-lock
-Lock the scroll position of the page
+An AMD module to lock the scroll position of the page. Cross-browser support emphasized.
 
 ## browser support
 
